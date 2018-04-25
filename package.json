@@ -6,7 +6,7 @@
     "ws": "^5.1.1"
   },
   "name": "eines-cli",
-  "version": "0.0.1",
+  "version": "0.0.2",
   "description": "Command-line client for Eines WebSocket library",
   "devDependencies": {},
   "license": "EPL-1.0"
