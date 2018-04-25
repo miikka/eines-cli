@@ -1,0 +1,5 @@
+{:source-paths ["src"]
+ :builds {:script {:id :script
+                   :target :node-script
+                   :main   eines-cli.main/main
+                   :output-to "out/script.js"}}}
