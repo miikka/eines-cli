@@ -3,3 +3,4 @@
 src
 shadow-cljs.edn
 Makefile
+scripts
