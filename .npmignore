@@ -2,5 +2,4 @@
 .shadow-cljs
 src
 shadow-cljs.edn
-Makefile
 scripts
